@@ -1,0 +1,33 @@
+
+---
+
+## **2. TECHNOLOGIES.md**
+```markdown
+# Book Management System - Technology Stack
+
+## Frontend
+- **React.js:** Build interactive and dynamic user interfaces.
+- **Redux & Redux Toolkit:** Manage state across components efficiently.
+- **React Router:** Handles routing and navigation between pages.
+- **Tailwind CSS:** Rapid UI development with utility-first styling.
+- **Axios:** HTTP client for API requests.
+- **React Toastify:** Notifications for success/error events.
+
+## Backend
+- **Node.js:** JavaScript runtime for server-side logic.
+- **Express.js:** REST API framework for routing and middleware.
+- **MongoDB:** NoSQL database for storing book and user data.
+- **Mongoose:** ODM to model MongoDB collections.
+- **JWT (JSON Web Token):** Secure user authentication.
+- **Bcrypt.js:** Password hashing for security.
+
+## Real-Time & Utilities
+- **Multer:** File uploads handling (for future cover images).
+- **Cors:** Enable cross-origin requests.
+- **Dotenv:** Environment variable management.
+- **Postman:** API testing tool.
+
+## Tools
+- **Git & GitHub:** Version control and repository management.
+- **VS Code:** Development environment.
+- **Node Package Manager (npm):** Dependency management.
